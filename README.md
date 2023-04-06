@@ -4,5 +4,5 @@
 ### Setup
 #### Prerequisite
 #### You should have Java, maven and inteliJ installed on your machine
-#### Clone this repo in your loval machine and open it with inteliJ IDE
+#### Clone this repo in your local machine and open it with inteliJ IDE
 #### You can run the script through Junit testRunner class.
